@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "frist": "omkar ",
+      "last": "deshmukh ",
+      "user": "omkard",
+      "password": "2222",
+      "id": 1
+    },
+    {
+      "frist": "omkar ",
+      "last": "deshmukh ",
+      "user": "omkard",
+      "password": "2222",
+      "id": 2
+    },
+    {
+      "frist": "shivhar",
+      "last": "deshmukh ",
+      "user": "shivhard",
+      "password": "3333",
+      "id": 3
+    },
+    {
+      "frist": "akash",
+      "last": "deshmukh ",
+      "user": "akashd",
+      "password": "4444",
+      "id": 4
+    },
+    {
+      "frist": "rohan",
+      "last": "deshmukh ",
+      "user": "rohan",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "frist": "dhanjay",
+      "last": "mishra",
+      "user": "dhanjay11",
+      "password": "1122",
+      "id": 6
+    },
+    {
+      "frist": "nitin",
+      "last": "shinde",
+      "user": "nitin44",
+      "password": "4444",
+      "id": 7
+    },
+    {
+      "frist": "sandip",
+      "last": "shinde",
+      "user": "shinde22",
+      "password": "6666",
+      "id": 8
+    },
+    {
+      "frist": "sanket",
+      "last": "deshmukh ",
+      "user": "sanket12",
+      "password": "2233",
+      "id": 9
+    },
+    {
+      "frist": "nitin",
+      "last": "raut",
+      "user": "nitin11",
+      "password": "666666",
+      "id": 10
+    },
+    {
+      "frist": "sudip",
+      "last": "deshmukh ",
+      "user": "sudip121",
+      "password": "111111",
+      "id": 11
+    }
+  ]
+}
